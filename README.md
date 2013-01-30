@@ -21,7 +21,7 @@ You may want to MIDI map the `device on/off` switch to a button located close to
 You can also clone and copy to your computer's **Performance & DJ** presets folder with the following commands:
 
 	git clone https://github.com/samvincent/AbletonLive-Traktor-Filter.git
-	cp AbletonLive-Traktor-Filter/AbletonLive-Traktor-Filter.adg ~/Library/Application\ Support/Ableton/Library/Presets/Audio\ Effects/Audio\ Effect\ Rack/Performance\ \&\ DJ/Traktor\ Filter.adg
+	cp AbletonLive-Traktor-Filter/Traktor\ Filter.adg ~/Library/Application\ Support/Ableton/Library/Presets/Audio\ Effects/Audio\ Effect\ Rack/Performance\ \&\ DJ/Traktor\ Filter.adg
 
 ##### Credit
 
